@@ -1,87 +1,92 @@
-🚀 Demo
+# Modelo del Sistema Solar en 3D
 
-👉 Abre el proyecto directamente en tu navegador
-(Si tienes GitHub Pages, puedes poner aquí el enlace)
+Un **modelo interactivo del sistema solar en 3D** creado con tecnologías web modernas. Este proyecto visualiza el movimiento de los planetas alrededor del Sol mediante animaciones suaves y transformaciones 3D directamente en el navegador.
 
-🧠 Características
+---
 
-🌞 Sistema solar en 3D
+## Descripción general
 
-🪐 Planetas con órbitas animadas
+El **Modelo del Sistema Solar en 3D** es un proyecto visual y educativo diseñado para demostrar cómo las transformaciones 3D con CSS y JavaScript pueden utilizarse para simular órbitas planetarias y profundidad espacial. El proyecto se ejecuta completamente en el navegador y no requiere librerías externas.
 
-🎥 Efecto de profundidad y perspectiva
+---
 
-⚡ Animaciones fluidas
+## Características
 
-💻 Funciona sin librerías externas
+* Representación 3D del sistema solar
+* Órbitas planetarias animadas
+* Efectos de profundidad y perspectiva
+* Animaciones fluidas y ligeras
+* Sin dependencias externas
+* Compatible con los principales navegadores
 
-📱 Responsive (adaptado a distintos tamaños de pantalla)
+---
 
-🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
-HTML5 – estructura
+* **HTML5** – Estructura y contenido
+* **CSS3** – Transformaciones 3D, animaciones y perspectiva
+* **JavaScript** – Interacción y control de animaciones
 
-CSS3 – animaciones 3D, transform, perspective
+---
 
-JavaScript – interacción y control (si aplica)
+## Estructura del proyecto
 
-📂 Estructura del proyecto
+```
 3d-solar-system-model/
 │
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
+```
 
+*(La estructura puede variar según la implementación.)*
 
-(La estructura puede variar si todo está en un solo archivo)
+---
 
-▶️ Cómo usarlo
+## Cómo empezar
 
-Clona el repositorio:
+1. Clona el repositorio:
 
-git clone https://github.com/tu-usuario/3d-solar-system-model.git
+   ```bash
+   git clone https://github.com/tu-usuario/3d-solar-system-model.git
+   ```
 
+2. Abre el archivo `index.html` en tu navegador preferido.
 
-Abre index.html en tu navegador
+No se requiere configuración adicional.
 
-¡Disfruta explorando el sistema solar! 🌍✨
+---
 
-🎨 Personalización
+## Personalización
 
 Puedes modificar fácilmente:
 
-Velocidad de las órbitas
+* Tamaño de los planetas
+* Velocidad de las órbitas
+* Colores y estilos visuales
+* Perspectiva y profundidad de la escena
 
-Tamaño de los planetas
+Esto hace que el proyecto sea ideal para experimentar y aprender.
 
-Colores y estilos
+---
 
-Perspectiva y profundidad 3D
+## Casos de uso
 
-Ideal para experimentos, aprendizaje o demostraciones visuales.
+* Demostraciones educativas
+* Aprendizaje de transformaciones 3D con CSS
+* Proyectos de portafolio para desarrollo web
+* Experimentos de programación creativa
 
-📚 Aprendizaje
+---
 
-Este proyecto es perfecto para:
+## Contribuciones
 
-Practicar CSS 3D
+Las contribuciones son bienvenidas. Si tienes ideas para mejoras o nuevas funcionalidades, puedes abrir un *issue* o enviar un *pull request*.
 
-Entender animaciones con transform
+---
 
-Crear proyectos visuales para tu portafolio
+## Licencia
 
-Contenido educativo o demos para redes sociales
+Este proyecto está bajo la **Licencia MIT**. Puedes usarlo, modificarlo y distribuirlo libremente con fines personales o educativos.
 
-🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas!
-Si tienes ideas para mejorar el modelo, abre un issue o envía un pull request.
-
-📜 Licencia
-
-Este proyecto está bajo la licencia MIT.
-Puedes usarlo libremente en proyectos personales o educativos.
-
-⭐ Si te gusta este proyecto, dale una estrella en GitHub
-🚀 Sígueme para más proyectos y trucos de desarrollo web
