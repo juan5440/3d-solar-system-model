@@ -1,92 +1,80 @@
-# Modelo del Sistema Solar en 3D
+# Sistema Solar 3D - Modelo Interactivo
 
-Un **modelo interactivo del sistema solar en 3D** creado con tecnologías web modernas. Este proyecto visualiza el movimiento de los planetas alrededor del Sol mediante animaciones suaves y transformaciones 3D directamente en el navegador.
+Un modelo interactivo y educativo del Sistema Solar desarrollado en 3D para el navegador. Este proyecto permite explorar los planetas, sus órbitas y características visuales mediante una experiencia inmersiva utilizando tecnologías web de vanguardia.
 
----
+## 🌟 Características
 
-## Descripción general
+* **Simulación a Escala:** Representación visual de los planetas del sistema solar.
+* **Navegación 3D:** Control total de la cámara para rotar, hacer zoom y explorar el espacio.
+* **Texturas de Alta Resolución:** Uso de texturas realistas para cada cuerpo celeste.
+* **Animación de Órbitas:** Movimiento dinámico de los planetas alrededor del Sol.
+* **Interfaz de Usuario:** Controles para interactuar con la simulación.
 
-El **Modelo del Sistema Solar en 3D** es un proyecto visual y educativo diseñado para demostrar cómo las transformaciones 3D con CSS y JavaScript pueden utilizarse para simular órbitas planetarias y profundidad espacial. El proyecto se ejecuta completamente en el navegador y no requiere librerías externas.
+## 🛠️ Tecnologías Utilizadas
 
----
+* **JavaScript (ES6+):** Lógica principal del simulador.
+* **Three.js:** Biblioteca potente para el renderizado de gráficos 3D en WebGL.
+* **HTML5 / CSS3:** Interfaz de usuario y estructura base.
+* **Vite / Webpack:** (Según configuración) Para la gestión de módulos y optimización.
 
-## Características
+## 🚀 Instalación Local
 
-* Representación 3D del sistema solar
-* Órbitas planetarias animadas
-* Efectos de profundidad y perspectiva
-* Animaciones fluidas y ligeras
-* Sin dependencias externas
-* Compatible con los principales navegadores
+Sigue estos pasos para configurar el entorno de desarrollo en tu máquina:
 
----
+### Requisitos previos
 
-## Tecnologías utilizadas
+* [Node.js](https://nodejs.org/) instalado.
+* [Git](https://git-scm.com/) para clonar el repositorio.
 
-* **HTML5** – Estructura y contenido
-* **CSS3** – Transformaciones 3D, animaciones y perspectiva
-* **JavaScript** – Interacción y control de animaciones
+### Pasos
 
----
+1.  **Clonar el repositorio:**
+    ```bash
+    git clone [https://github.com/juan5440/3d-solar-system-model.git](https://github.com/juan5440/3d-solar-system-model.git)
+    ```
 
-## Estructura del proyecto
+2.  **Acceder a la carpeta del proyecto:**
+    ```bash
+    cd 3d-solar-system-model
+    ```
 
-```
-3d-solar-system-model/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
+3.  **Instalar dependencias:**
+    ```bash
+    npm install
+    ```
 
-*(La estructura puede variar según la implementación.)*
+4.  **Ejecutar el proyecto:**
+    ```bash
+    npm run dev
+    ```
 
----
+5.  **Abrir el navegador:**
+    Visita `http://localhost:5173` (o el puerto que te asigne la terminal).
 
-## Cómo empezar
+## 📂 Estructura del Proyecto
 
-1. Clona el repositorio:
+```text
+├── public/             # Imágenes, texturas de planetas y fondos espaciales
+├── src/                # Archivos fuente de JavaScript y lógica de Three.js
+├── styles/             # Archivos de estilo CSS
+├── index.html          # Archivo principal de entrada
+└── package.json        # Dependencias y scripts del proyecto
 
-   ```bash
-   git clone https://github.com/tu-usuario/3d-solar-system-model.git
-   ```
+🌍 Contribuciones
+Las contribuciones son lo que hacen a la comunidad de código abierto un lugar increíble para aprender e inspirar.
 
-2. Abre el archivo `index.html` en tu navegador preferido.
+Haz un Fork del proyecto.
 
-No se requiere configuración adicional.
+Crea una rama para tu mejora (git checkout -b feature/MejoraIncreible).
 
----
+Realiza tus cambios y haz un Commit (git commit -m 'Añadir mejora').
 
-## Personalización
+Sube tus cambios a tu rama (git push origin feature/MejoraIncreible).
 
-Puedes modificar fácilmente:
+Abre un Pull Request.
 
-* Tamaño de los planetas
-* Velocidad de las órbitas
-* Colores y estilos visuales
-* Perspectiva y profundidad de la escena
+📄 Licencia
+Este proyecto está distribuido bajo la licencia MIT.
 
-Esto hace que el proyecto sea ideal para experimentar y aprender.
-
----
-
-## Casos de uso
-
-* Demostraciones educativas
-* Aprendizaje de transformaciones 3D con CSS
-* Proyectos de portafolio para desarrollo web
-* Experimentos de programación creativa
-
----
-
-## Contribuciones
-
-Las contribuciones son bienvenidas. Si tienes ideas para mejoras o nuevas funcionalidades, puedes abrir un *issue* o enviar un *pull request*.
-
----
-
-## Licencia
-
-Este proyecto está bajo la **Licencia MIT**. Puedes usarlo, modificarlo y distribuirlo libremente con fines personales o educativos.
+Creado por juan5440
 
