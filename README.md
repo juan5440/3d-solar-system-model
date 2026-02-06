@@ -59,7 +59,7 @@ Sigue estos pasos para configurar el entorno de desarrollo en tu máquina:
 ├── styles/             # Archivos de estilo CSS
 ├── index.html          # Archivo principal de entrada
 └── package.json        # Dependencias y scripts del proyecto
-
+```
 🌍 Contribuciones
 Las contribuciones son lo que hacen a la comunidad de código abierto un lugar increíble para aprender e inspirar.
 
